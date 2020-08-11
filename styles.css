@@ -1,0 +1,1537 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1242px;
+	 height: 2208px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1242px;
+	 height: 2208px;
+	 z-index:1;
+} 
+
+ #dock 
+{ 
+	 left: -1px; 
+	 top: 1919px; 
+	 position: absolute; 
+	 width: 1244px;
+	 height: 291px;
+	 z-index:2;
+} 
+
+ #Music 
+{ 
+	 left: 999px; 
+	 top: 2161px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 28px;
+	 z-index:3;
+} 
+
+ #base 
+{ 
+	 left: 955px; 
+	 top: 1967px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:4;
+} 
+
+ #tune 
+{ 
+	 left: 991px; 
+	 top: 1995px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 123px;
+	 z-index:5;
+} 
+
+ #colors 
+{ 
+	 left: 981px; 
+	 top: 1983px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 143px;
+	 z-index:6;
+} 
+
+ #Mail 
+{ 
+	 left: 730px; 
+	 top: 2161px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 28px;
+	 z-index:7;
+} 
+
+ #appicon 
+{ 
+	 left: 671px; 
+	 top: 1966px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 184px;
+	 z-index:8;
+} 
+
+ #envelope 
+{ 
+	 left: 701px; 
+	 top: 2017px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 81px;
+	 z-index:9;
+} 
+
+ #badge 
+{ 
+	 left: 813px; 
+	 top: 1940px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 68px;
+	 z-index:10;
+} 
+
+ #layer_8 
+{ 
+	 left: 835px; 
+	 top: 1955px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 36px;
+	 z-index:11;
+} 
+
+ #Safari 
+{ 
+	 left: 431px; 
+	 top: 2161px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 28px;
+	 z-index:12;
+} 
+
+ #base_0 
+{ 
+	 left: 388px; 
+	 top: 1967px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 183px;
+	 z-index:13;
+} 
+
+ #circle 
+{ 
+	 left: 400px; 
+	 top: 1978px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 159px;
+	 z-index:14;
+} 
+
+ #lines 
+{ 
+	 left: 407px; 
+	 top: 1985px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 147px;
+	 z-index:15;
+} 
+
+ #gauge 
+{ 
+	 left: 423px; 
+	 top: 2050px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 65px;
+	 z-index:16;
+} 
+
+ #gauge_0 
+{ 
+	 left: 470px; 
+	 top: 2001px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 66px;
+	 z-index:17;
+} 
+
+ #Phone 
+{ 
+	 left: 143px; 
+	 top: 2161px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 28px;
+	 z-index:18;
+} 
+
+ #base_1 
+{ 
+	 left: 104px; 
+	 top: 1967px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 183px;
+	 z-index:19;
+} 
+
+ #phone 
+{ 
+	 left: 136px; 
+	 top: 1998px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 119px;
+	 z-index:20;
+} 
+
+ #dots 
+{ 
+	 left: 658px; 
+	 top: 1886px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:21;
+} 
+
+ #activedot 
+{ 
+	 left: 610px; 
+	 top: 1886px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 24px;
+	 z-index:22;
+} 
+
+ #search 
+{ 
+	 left: 562px; 
+	 top: 1886px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 27px;
+	 z-index:23;
+} 
+
+ #Settings 
+{ 
+	 left: 410px; 
+	 top: 1507px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 35px;
+	 z-index:24;
+} 
+
+ #base_2 
+{ 
+	 left: 388px; 
+	 top: 1313px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 183px;
+	 z-index:25;
+} 
+
+ #holedcircle 
+{ 
+	 left: 400px; 
+	 top: 1324px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 159px;
+	 z-index:26;
+} 
+
+ #gear 
+{ 
+	 left: 431px; 
+	 top: 1356px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 98px;
+	 z-index:27;
+} 
+
+ #gear_0 
+{ 
+	 left: 406px; 
+	 top: 1331px; 
+	 position: absolute; 
+	 width: 146px;
+	 height: 147px;
+	 z-index:28;
+} 
+
+ #Health 
+{ 
+	 left: 142px; 
+	 top: 1507px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 28px;
+	 z-index:29;
+} 
+
+ #base_3 
+{ 
+	 left: 104px; 
+	 top: 1313px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 183px;
+	 z-index:30;
+} 
+
+ #heart 
+{ 
+	 left: 170px; 
+	 top: 1343px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 76px;
+	 z-index:31;
+} 
+
+ #News 
+{ 
+	 left: 1002px; 
+	 top: 1208px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 27px;
+	 z-index:32;
+} 
+
+ #base_4 
+{ 
+	 left: 955px; 
+	 top: 1013px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:33;
+} 
+
+ #front 
+{ 
+	 left: 981px; 
+	 top: 1052px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 104px;
+	 z-index:34;
+} 
+
+ #back 
+{ 
+	 left: 981px; 
+	 top: 1064px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 92px;
+	 z-index:35;
+} 
+
+ #text 
+{ 
+	 left: 996px; 
+	 top: 1133px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 17px;
+	 z-index:36;
+} 
+
+ #photo 
+{ 
+	 left: 996px; 
+	 top: 1086px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 45px;
+	 z-index:37;
+} 
+
+ #clouds 
+{ 
+	 left: 994px; 
+	 top: 1095px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 33px;
+	 z-index:38;
+} 
+
+ #cityline 
+{ 
+	 left: 996px; 
+	 top: 1096px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 35px;
+	 z-index:39;
+} 
+
+ #header 
+{ 
+	 left: 996px; 
+	 top: 1056px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 29px;
+	 z-index:40;
+} 
+
+ #iBooks 
+{ 
+	 left: 708px; 
+	 top: 1207px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 28px;
+	 z-index:41;
+} 
+
+ #base_5 
+{ 
+	 left: 671px; 
+	 top: 1013px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:42;
+} 
+
+ #book 
+{ 
+	 left: 701px; 
+	 top: 1053px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 107px;
+	 z-index:43;
+} 
+
+ #AppStore 
+{ 
+	 left: 394px; 
+	 top: 1208px; 
+	 position: absolute; 
+	 width: 167px;
+	 height: 33px;
+	 z-index:44;
+} 
+
+ #base_6 
+{ 
+	 left: 388px; 
+	 top: 1013px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 183px;
+	 z-index:45;
+} 
+
+ #appstore 
+{ 
+	 left: 400px; 
+	 top: 1024px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 159px;
+	 z-index:46;
+} 
+
+ #iTunesStore 
+{ 
+	 left: 90px; 
+	 top: 1207px; 
+	 position: absolute; 
+	 width: 208px;
+	 height: 28px;
+	 z-index:47;
+} 
+
+ #base_7 
+{ 
+	 left: 104px; 
+	 top: 1013px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 183px;
+	 z-index:48;
+} 
+
+ #itunes 
+{ 
+	 left: 116px; 
+	 top: 1024px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 159px;
+	 z-index:49;
+} 
+
+ #Stocks 
+{ 
+	 left: 991px; 
+	 top: 907px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 28px;
+	 z-index:50;
+} 
+
+ #base_8 
+{ 
+	 left: 955px; 
+	 top: 713px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:51;
+} 
+
+ #lines_0 
+{ 
+	 left: 976px; 
+	 top: 712px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 184px;
+	 z-index:52;
+} 
+
+ #graph 
+{ 
+	 left: 953px; 
+	 top: 768px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 130px;
+	 z-index:53;
+} 
+
+ #activeline 
+{ 
+	 left: 1079px; 
+	 top: 712px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 184px;
+	 z-index:54;
+} 
+
+ #activedot_0 
+{ 
+	 left: 1071px; 
+	 top: 761px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:55;
+} 
+
+ #Reminders 
+{ 
+	 left: 675px; 
+	 top: 907px; 
+	 position: absolute; 
+	 width: 175px;
+	 height: 28px;
+	 z-index:56;
+} 
+
+ #base_9 
+{ 
+	 left: 671px; 
+	 top: 713px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:57;
+} 
+
+ #noise 
+{ 
+	 left: 673px; 
+	 top: 714px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 180px;
+	 z-index:58;
+} 
+
+ #line 
+{ 
+	 left: 728px; 
+	 top: 734px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 140px;
+	 z-index:59;
+} 
+
+ #dot 
+{ 
+	 left: 688px; 
+	 top: 841px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 29px;
+	 z-index:60;
+} 
+
+ #dot_0 
+{ 
+	 left: 688px; 
+	 top: 807px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:61;
+} 
+
+ #dot_1 
+{ 
+	 left: 688px; 
+	 top: 773px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:62;
+} 
+
+ #dot_2 
+{ 
+	 left: 688px; 
+	 top: 738px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 29px;
+	 z-index:63;
+} 
+
+ #Notes 
+{ 
+	 left: 431px; 
+	 top: 908px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 27px;
+	 z-index:64;
+} 
+
+ #base_10 
+{ 
+	 left: 388px; 
+	 top: 713px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 183px;
+	 z-index:65;
+} 
+
+ #noise_0 
+{ 
+	 left: 389px; 
+	 top: 714px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 180px;
+	 z-index:66;
+} 
+
+ #header_0 
+{ 
+	 left: 387px; 
+	 top: 712px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 59px;
+	 z-index:67;
+} 
+
+ #line_0 
+{ 
+	 left: 388px; 
+	 top: 803px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 71px;
+	 z-index:68;
+} 
+
+ #dottedline 
+{ 
+	 left: 389px; 
+	 top: 779px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 6px;
+	 z-index:69;
+} 
+
+ #Wallet 
+{ 
+	 left: 143px; 
+	 top: 907px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 28px;
+	 z-index:70;
+} 
+
+ #base_11 
+{ 
+	 left: 104px; 
+	 top: 713px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 183px;
+	 z-index:71;
+} 
+
+ #wallet 
+{ 
+	 left: 126px; 
+	 top: 752px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 104px;
+	 z-index:72;
+} 
+
+ #extrashadow 
+{ 
+	 left: 126px; 
+	 top: 803px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 53px;
+	 z-index:73;
+} 
+
+ #card 
+{ 
+	 left: 131px; 
+	 top: 758px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 91px;
+	 z-index:74;
+} 
+
+ #card_0 
+{ 
+	 left: 132px; 
+	 top: 769px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 81px;
+	 z-index:75;
+} 
+
+ #card_1 
+{ 
+	 left: 132px; 
+	 top: 780px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 70px;
+	 z-index:76;
+} 
+
+ #card_2 
+{ 
+	 left: 132px; 
+	 top: 791px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 59px;
+	 z-index:77;
+} 
+
+ #front_0 
+{ 
+	 left: 126px; 
+	 top: 803px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 53px;
+	 z-index:78;
+} 
+
+ #badge_0 
+{ 
+	 left: 228px; 
+	 top: 685px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 70px;
+	 z-index:79;
+} 
+
+ #layer_18 
+{ 
+	 left: 247px; 
+	 top: 701px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 36px;
+	 z-index:80;
+} 
+
+ #Videos 
+{ 
+	 left: 989px; 
+	 top: 607px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 28px;
+	 z-index:81;
+} 
+
+ #base_12 
+{ 
+	 left: 955px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:82;
+} 
+
+ #body 
+{ 
+	 left: 956px; 
+	 top: 467px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 129px;
+	 z-index:83;
+} 
+
+ #whitethingy 
+{ 
+	 left: 956px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 57px;
+	 z-index:84;
+} 
+
+ #stripes 
+{ 
+	 left: 926px; 
+	 top: 412px; 
+	 position: absolute; 
+	 width: 249px;
+	 height: 58px;
+	 z-index:85;
+} 
+
+ #line_1 
+{ 
+	 left: 956px; 
+	 top: 440px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 4px;
+	 z-index:86;
+} 
+
+ #Maps 
+{ 
+	 left: 719px; 
+	 top: 608px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 33px;
+	 z-index:87;
+} 
+
+ #icon 
+{ 
+	 left: 671px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:88;
+} 
+
+ #pavement 
+{ 
+	 left: 823px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 32px;
+	 z-index:89;
+} 
+
+ #park 
+{ 
+	 left: 671px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 31px;
+	 z-index:90;
+} 
+
+ #highway 
+{ 
+	 left: 668px; 
+	 top: 503px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 109px;
+	 z-index:91;
+} 
+
+ #road 
+{ 
+	 left: 671px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 183px;
+	 z-index:92;
+} 
+
+ #navigationroad 
+{ 
+	 left: 671px; 
+	 top: 447px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 111px;
+	 z-index:93;
+} 
+
+ #navigationroadcircle 
+{ 
+	 left: 793px; 
+	 top: 518px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 38px;
+	 z-index:94;
+} 
+
+ #navigationarrow 
+{ 
+	 left: 802px; 
+	 top: 524px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 25px;
+	 z-index:95;
+} 
+
+ #highwaynumber 
+{ 
+	 left: 697px; 
+	 top: 483px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 60px;
+	 z-index:96;
+} 
+
+ #red 
+{ 
+	 left: 697px; 
+	 top: 483px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 15px;
+	 z-index:97;
+} 
+
+ #layer_280 
+{ 
+	 left: 713px; 
+	 top: 503px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 19px;
+	 z-index:98;
+} 
+
+ #Clock 
+{ 
+	 left: 432px; 
+	 top: 607px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 28px;
+	 z-index:99;
+} 
+
+ #base_13 
+{ 
+	 left: 388px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 183px;
+	 z-index:100;
+} 
+
+ #circle_0 
+{ 
+	 left: 400px; 
+	 top: 425px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 159px;
+	 z-index:101;
+} 
+
+ #layer_12 
+{ 
+	 left: 469px; 
+	 top: 437px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 14px;
+	 z-index:102;
+} 
+
+ #layer_11 
+{ 
+	 left: 440px; 
+	 top: 447px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 13px;
+	 z-index:103;
+} 
+
+ #layer_10 
+{ 
+	 left: 418px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 15px;
+	 z-index:104;
+} 
+
+ #layer_9 
+{ 
+	 left: 413px; 
+	 top: 497px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 15px;
+	 z-index:105;
+} 
+
+ #layer_8_0 
+{ 
+	 left: 420px; 
+	 top: 528px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 15px;
+	 z-index:106;
+} 
+
+ #layer_7 
+{ 
+	 left: 443px; 
+	 top: 550px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 13px;
+	 z-index:107;
+} 
+
+ #layer_6 
+{ 
+	 left: 474px; 
+	 top: 558px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 15px;
+	 z-index:108;
+} 
+
+ #layer_5 
+{ 
+	 left: 503px; 
+	 top: 550px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 14px;
+	 z-index:109;
+} 
+
+ #layer_4 
+{ 
+	 left: 527px; 
+	 top: 529px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 13px;
+	 z-index:110;
+} 
+
+ #layer_3 
+{ 
+	 left: 535px; 
+	 top: 497px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 15px;
+	 z-index:111;
+} 
+
+ #layer_2 
+{ 
+	 left: 526px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 14px;
+	 z-index:112;
+} 
+
+ #layer_1 
+{ 
+	 left: 508px; 
+	 top: 447px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 13px;
+	 z-index:113;
+} 
+
+ #hands 
+{ 
+	 left: 412px; 
+	 top: 484px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 50px;
+	 z-index:114;
+} 
+
+ #seconds 
+{ 
+	 left: 475px; 
+	 top: 492px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 84px;
+	 z-index:115;
+} 
+
+ #Weather 
+{ 
+	 left: 124px; 
+	 top: 607px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 28px;
+	 z-index:116;
+} 
+
+ #base_14 
+{ 
+	 left: 104px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 183px;
+	 z-index:117;
+} 
+
+ #sun 
+{ 
+	 left: 129px; 
+	 top: 452px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 69px;
+	 z-index:118;
+} 
+
+ #cloud 
+{ 
+	 left: 143px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 79px;
+	 z-index:119;
+} 
+
+ #Camera 
+{ 
+	 left: 984px; 
+	 top: 308px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 27px;
+	 z-index:120;
+} 
+
+ #base_15 
+{ 
+	 left: 955px; 
+	 top: 113px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:121;
+} 
+
+ #camera 
+{ 
+	 left: 982px; 
+	 top: 145px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 107px;
+	 z-index:122;
+} 
+
+ #light 
+{ 
+	 left: 1071px; 
+	 top: 178px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 10px;
+	 z-index:123;
+} 
+
+ #Photos 
+{ 
+	 left: 706px; 
+	 top: 307px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 28px;
+	 z-index:124;
+} 
+
+ #base_16 
+{ 
+	 left: 671px; 
+	 top: 113px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 183px;
+	 z-index:125;
+} 
+
+ #leaf 
+{ 
+	 left: 697px; 
+	 top: 138px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 74px;
+	 z-index:126;
+} 
+
+ #leaf_0 
+{ 
+	 left: 683px; 
+	 top: 178px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 52px;
+	 z-index:127;
+} 
+
+ #leaf_1 
+{ 
+	 left: 697px; 
+	 top: 196px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 74px;
+	 z-index:128;
+} 
+
+ #leaf_2 
+{ 
+	 left: 737px; 
+	 top: 207px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 77px;
+	 z-index:129;
+} 
+
+ #leaf_3 
+{ 
+	 left: 755px; 
+	 top: 196px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 74px;
+	 z-index:130;
+} 
+
+ #leaf_4 
+{ 
+	 left: 766px; 
+	 top: 178px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 52px;
+	 z-index:131;
+} 
+
+ #leaf_5 
+{ 
+	 left: 755px; 
+	 top: 138px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 74px;
+	 z-index:132;
+} 
+
+ #leaf_6 
+{ 
+	 left: 737px; 
+	 top: 125px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 76px;
+	 z-index:133;
+} 
+
+ #shaderleaves 
+{ 
+	 left: 729px; 
+	 top: 170px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 68px;
+	 z-index:134;
+} 
+
+ #Calendar 
+{ 
+	 left: 406px; 
+	 top: 307px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 28px;
+	 z-index:135;
+} 
+
+ #base_17 
+{ 
+	 left: 388px; 
+	 top: 113px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 183px;
+	 z-index:136;
+} 
+
+ #layer_18_0 
+{ 
+	 left: 426px; 
+	 top: 177px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 86px;
+	 z-index:137;
+} 
+
+ #Friday 
+{ 
+	 left: 442px; 
+	 top: 140px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 27px;
+	 z-index:138;
+} 
+
+ #Messages 
+{ 
+	 left: 112px; 
+	 top: 308px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 34px;
+	 z-index:139;
+} 
+
+ #base_18 
+{ 
+	 left: 104px; 
+	 top: 113px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 183px;
+	 z-index:140;
+} 
+
+ #bubble 
+{ 
+	 left: 128px; 
+	 top: 144px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 121px;
+	 z-index:141;
+} 
+
+ #statusbar 
+{ 
+	 left: 20px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 1205px;
+	 height: 29px;
+	 z-index:142;
+} 
+
+ #YourAppname 
+{ 
+	 left: 686px; 
+	 top: 1508px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 33px;
+	 z-index:143;
+} 
+
+ #base_19 
+{ 
+	 left: 672px; 
+	 top: 1313px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 183px;
+	 z-index:144;
+} 
+
+ #EditArtwork 
+{ 
+	 left: 673px; 
+	 top: 1314px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 180px;
+	 z-index:145;
+} 
+
+ #Capa4 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1242px;
+	 height: 2208px;
+	 z-index:146;
+} 
+
+ #Rectngulo1 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1244px;
+	 height: 2210px;
+	 z-index:147;
+} 
+
+ #jordimanuel 
+{ 
+	 left: 112px; 
+	 top: 2023px; 
+	 position: absolute; 
+	 width: 331px;
+	 height: 49px;
+	 z-index:148;
+} 
+
+ #httpjordimanueldribb 
+{ 
+	 left: 113px; 
+	 top: 1943px; 
+	 position: absolute; 
+	 width: 814px;
+	 height: 50px;
+	 z-index:149;
+} 
+
+ #JordiManuel 
+{ 
+	 left: 110px; 
+	 top: 1853px; 
+	 position: absolute; 
+	 width: 322px;
+	 height: 39px;
+	 z-index:150;
+} 
+
+ #Madeby 
+{ 
+	 left: 111px; 
+	 top: 1786px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 41px;
+	 z-index:151;
+} 
+
+ #Enjoyit 
+{ 
+	 left: 108px; 
+	 top: 415px; 
+	 position: absolute; 
+	 width: 382px;
+	 height: 111px;
+	 z-index:152;
+} 
